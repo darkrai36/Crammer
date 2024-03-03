@@ -1,11 +1,10 @@
 package ru.vsu.cs.sibirko_i_s.ML_TA;
 
 import org.apache.commons.cli.*;
-import ru.vsu.cs.sibirko_i_s.ML_TA.util.ArrayUtils;
-import ru.vsu.cs.sibirko_i_s.ML_TA.util.SwingUtils;
+import util.ArrayUtils;
+import util.SwingUtils;
 
 import java.io.PrintStream;
-import java.util.Arrays;
 import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
