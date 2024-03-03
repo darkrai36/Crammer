@@ -19,7 +19,6 @@ public class FrameMain extends JFrame {
     private JButton saveResultIntoFileButton;
     private JTable tableForMatrix;
     private JTable tableForResult;
-    private JLabel mainLabel;
     private JButton buttonClear;
 
     private final JFileChooser fileChooserOpen;
